@@ -147,10 +147,6 @@ body {
   margin: 179px 24px 0 24px;
 }
 
-.lots__heading {
-  text-transform: uppercase;
-}
-
 .lots__card-list {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -189,6 +185,7 @@ body {
 .lots__heading {
   padding-bottom: 27px;
   padding-left: 40px;
+  text-transform: uppercase;
 }
 
 .lots__card-paddings {
